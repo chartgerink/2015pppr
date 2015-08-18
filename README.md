@@ -4,5 +4,9 @@ This project investigates a subselection of psychology papers and engages in a p
 
 To-do:
 
+- [ ] Create dataset of statcheck results per paper
 - [ ] X step procedure per paper
 - [ ] Random paper selection from statcheck data
+
+
+
