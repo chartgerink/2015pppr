@@ -11,5 +11,7 @@ To-do:
 - [ ] X step procedure per paper
 - [ ] Random paper selection from statcheck data
 
-
+## Step procedure checklist
+1. Extract a total of 10 papers with the use of the `statcheck` results. This includes 5 papers that are flagged with the `ln(1-p)` method AND have >= 15 results; subsequently 5 papers with >= 15 results are sampled from the remaining set of papers that were *not* flagged by `ln(1-p)` and *not* in the pilot.
+2. 
 
