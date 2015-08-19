@@ -7,7 +7,7 @@ Original, unanonymized data from running statcheck is not included due to ethics
 To-do:
 
 - [x] Create dataset of statcheck results 
-- [ ] Count number of statcheck results per paper
+- [x] Count number of statcheck results per paper
 - [ ] X step procedure per paper
 - [ ] Random paper selection from statcheck data
 
