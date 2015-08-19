@@ -1,9 +1,9 @@
-library(plyr)
-
 # Set to project directory
 setwd(choose.dir())
-# For personal use
+# For personal use during project
 setwd("~/Dropbox/projects/2015pppr")
+
+library(plyr)
 
 # Reading in the unanonymized results
 unanon <- read.table('data/datafile_unanon.csv', sep = ';', dec = ',', header = TRUE)
