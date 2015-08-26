@@ -1,0 +1,136 @@
+"Source";"Statistic";"df1";"df2";"Test.Comparison";"Value";"Reported.Comparison";"Reported.P.Value";"Computed";"Raw";"Error";"DecisionError";"OneTail";"OneTailedInTxt";"CopyPaste";"APAfactor"
+"01_Social support, life events, and depressive symptomsl";"r";NA;707;"=";-0.37;"<";0.001;2.00770536181523e-24;"r(707)= -.37, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"r";NA;471;"=";-0.03;"ns";NA;0.515125854500565;"r(471)= -.03, ns";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"r";NA;234;"=";-0.25;"<";0.001;0.000103599298062705;"r(234)= -.25, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"r";NA;63;"=";-0.47;"<";0.001;7.80857087887585e-05;"r(63)= -.47, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;707;"=";77.66;"<";0.001;9.4136503669478e-18;"F(1, 707)= 77.66, p< .001";FALSE;FALSE;FALSE;TRUE;TRUE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;706;"=";19.38;"<";0.001;1.23702821524454e-05;"F(1, 706)= 19.38, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;707;"=";77.66;"<";0.001;9.4136503669478e-18;"F(1, 707)= 77.66, p< .001";FALSE;FALSE;FALSE;TRUE;TRUE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;706;"=";16.63;"<";0.001;5.05986978838829e-05;"F(1, 706)= 16.63, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";2;706;"=";207.67;"<";0.001;1.17702986991967e-71;"F(2, 706)= 207.67, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;705;"=";2.83;"<";0.1;0.092961172996658;"F(1, 705)= 2.83, p< .10";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;703;"=";7.57;"<";0.01;0.00608761149348186;"F(1, 703)= 7.57, p< .01";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;471;"=";16.69;"<";0.001;5.1726886803829e-05;"F(1, 471)= 16.69, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;470;"=";8.54;"<";0.01;0.00364170341741699;"F(1, 470)= 8.54, p< .01";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;470;"=";8.77;"<";0.01;0.00321728589824981;"F(1, 470)= 8.77, p< .01";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";2;470;"=";22.35;"<";0.001;5.34277734918103e-10;"F(2, 470)= 22.35, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;469;"=";13.98;"<";0.001;0.000207596142830988;"F(1, 469)= 13.98, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;468;"=";3.93;"<";0.05;0.048016314358671;"F(1, 468)= 3.93, p< .05";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;468;"=";5.35;"<";0.03;0.0211550170563184;"F(1, 468)= 5.35, p< .03";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"r";NA;707;"=";-0.03;">";0.2;0.425113299933373;"r(707)= -.03, p> .20";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"r";NA;707;"=";0.74;"<";0.001;6.83247808625511e-124;"r(707)= .74, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;706;"=";11.87;"<";0.001;0.000604198607158807;"F(1, 706)= 11.87, p< .001";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"01_Social support, life events, and depressive symptomsl";"F";1;705;"=";2.85;"<";0.1;0.0918161919506195;"F(1, 705)= 2.85, p< .10";FALSE;FALSE;FALSE;TRUE;FALSE;0.88
+"02_Big fish in small pondsl";"F";1;134;"=";143.7;"<";0.05;5.94491051564136e-23;"F(1, 134) = 143.7, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";20.43;"<";0.05;1.836682740958e-05;"F(1, 92) = 20.43, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";8.75;"<";0.05;0.00393498731051286;"F(1, 92) = 8.75, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";2.31;"<";0.15;0.131973449504435;"F(1, 92) = 2.31, p< .15";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";12.24;"<";0.05;0.000722737697070127;"F(1, 92) = 12.24, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";3.59;"<";0.06;0.0612688662134651;"F(1, 92) = 3.59, p< .06";TRUE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;61;"=";7.69;"<";0.05;0.00735572272973657;"F(1, 61) = 7.69, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;61;"=";9.62;"<";0.05;0.00291361929791799;"F(1, 61) = 9.62, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;61;"=";5.01;"<";0.05;0.0288619023810435;"F(1, 61) = 5.01, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;61;"=";6.35;"<";0.05;0.0143719594605301;"F(1, 61) = 6.35, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";4.5;"<";0.05;0.0365836315762379;"F(1, 92) = 4.50, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";4.39;"<";0.05;0.0388978156927483;"F(1, 92) = 4.39, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";8.2;"<";0.01;0.00518816318376715;"F(1, 92) = 8.2, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";5.04;"<";0.05;0.0271646569002812;"F(1, 92) = 5.04, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";4.19;"<";0.05;0.043515491969754;"F(1, 92) = 4.19, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";4.49;"<";0.05;0.0367878176267099;"F(1, 92) = 4.49, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";1.78;"<";0.2;0.185442437128149;"F(1, 92) = 1.78, p< .20";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";5.69;"<";0.05;0.0191123771399846;"F(1, 92) = 5.69, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;92;"=";9.28;"<";0.05;0.0030227241484216;"F(1, 92) = 9.28, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";5.55;"<";0.05;0.0192893006688085;"F(1, 239) = 5.55, p< .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";36.96;"<";0.01;4.73495169941845e-09;"F(1, 239) = 36.96, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";60.96;"<";0.01;1.82378921817421e-13;"F(1, 239) = 60.96, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";20.23;"<";0.01;1.07181727112302e-05;"F(1, 239) = 20.23, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";18.18;"<";0.01;2.89532310173026e-05;"F(1, 239) = 18.18, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";25.2;"<";0.01;1.01030566130429e-06;"F(1, 239) = 25.20, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";3.17;"<";0.08;0.0762727307574465;"F(1, 239) = 3.17, p< .08";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";87.5;"<";0.01;6.35245730396009e-18;"F(1, 239) = 87.50, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";3.41;"<";0.07;0.066038731956712;"F(1, 239) = 3.41, p< .07";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";104.85;"<";0.01;1.22637054994328e-20;"F(1, 239) = 104.85, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";3.81;"<";0.07;0.0521153683518729;"F(1, 239) = 3.81, p< .07";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";3.61;"<";0.07;0.0586367681169252;"F(1, 239) = 3.61, p< .07";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";46.83;"<";0.01;6.45634185950896e-11;"F(1, 239) = 46.83, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"02_Big fish in small pondsl";"F";1;239;"=";43.55;"<";0.01;2.640063494045e-10;"F(1, 239) = 43.55, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"03_Effects of social contextl";"F";1;53;"=";4.46;"<";0.04;0.0394283900516603;"F(1, 53) = 4.46, p < .04";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"t";NA;52;"=";6.8;"<";1e-04;1.03144021450928e-08;"t(52) = 6.80, p < .0001";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";3;46;"=";3.75;"<";0.02;0.0171703703983587;"F(3, 46) = 3.75, p < .02";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";3;46;"=";1.9;"<";0.07;0.142832307393639;"F(3, 46) = 1.90, p < .07";TRUE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";1;48;"=";5.67;"<";0.02;0.0212723725526526;"F(1, 48) = 5.67, p < .02";TRUE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";1;48;"=";8.23;"<";0.006;0.00610750813227986;"F(1, 48) = 8.23, p < .006";TRUE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";3;46;"=";4.45;"<";0.01;0.00793396625666567;"F(3, 46) = 4.45, p < .01";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";1;48;"=";4.52;"<";0.04;0.0386714245571676;"F(1, 48) = 4.52, p < .04";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";3;48;"=";3.61;"<";0.02;0.0197512964765282;"F(3, 48) = 3.61, p < .02";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";3;48;"=";2.62;"<";0.06;0.0614501421964484;"F(3, 48) = 2.62, p < .06";TRUE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";1;50;"=";4.61;"<";0.04;0.0366597272673799;"F(1, 50) = 4.61, p < .04";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";1;50;"=";3.3;"<";0.05;0.0752766279354048;"F(1, 50) = 3.30, p < .05";TRUE;TRUE;TRUE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";3;48;"=";3.49;"<";0.03;0.0226270873602461;"F(3, 48) = 3.49, p < .03";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";2;49;"=";4.57;"<";0.02;0.0151413914902026;"F(2, 49) = 4.57, p < .02";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";1;51;"=";9.83;"<";0.003;0.00284744422856805;"F(1, 51) = 9.83, p < .003";FALSE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";1;51;"=";5.38;"<";0.02;0.0244101254336103;"F(1, 51) = 5.38, p < .02";TRUE;FALSE;FALSE;TRUE;FALSE;0.71
+"03_Effects of social contextl";"F";1;54;"=";3.03;"<";0.05;0.0874337441904201;"F(1, 54) = 3.03, p < .05";TRUE;TRUE;TRUE;TRUE;FALSE;0.71
+"04_The attitude polarization phenomenonl";"F";1;142;"=";146.54;"<";0.01;1.27974984660611e-23;"F(1, 142) = 146.54, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;142;"=";15.37;"<";0.01;0.000137006680537154;"F(1, 142) = 15.37,p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;149;"=";20.09;"<";0.01;1.46407940358055e-05;"F(1, 149) = 20.09, p <.01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;149;"=";2.34;"<";0.13;0.128209811421591;"F(1, 149) = 2.34, p< .13";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;68;"=";5.25;"<";0.01;1.64219196371555e-06;"t(68) = 5.25,p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;53;"=";1.22;"<";0.22;0.227865812441012;"t(53) = 1.22,p < .22";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;22;"=";-1.59;"<";0.13;0.126103448462973;"t(22) = -1.59,p < .13";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;18;"=";-2.55;"<";0.02;0.0200997675410485;"t(18) = -2.55,p < .02";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"Chi2";2;NA;"=";8.96;"<";0.01;0.0113334131546674;"‡2(2, N = 165) = 8.96, p <.01";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;67;"=";2.93;"<";0.01;0.00463062000653806;"t(67) = 2.93, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;59;"=";-2.91;"<";0.01;0.00509077429723663;"t(59) = -2.91, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";2;142;"=";13.72;"<";0.01;3.56730723789653e-06;"F(2, 142) = 13.72,p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;215;"=";100.55;"<";0.01;1.16596020773224e-19;"F(1, 215) = 100.55, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;215;"=";17.58;"<";0.01;4.02578565252339e-05;"F(1, 215) = 17.58, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;223;"=";7.74;"<";0.01;0.00586371359688091;"F(1, 223) = 7.74, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;88;"=";5.43;"<";0.01;4.93508451967692e-07;"t(88)= 5.43, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;28;"=";-2.75;"<";0.01;0.0103225836507569;"t(28) = -2.75, p < .01";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;216;"=";0.54;"ns";NA;0.463229780832525;"F(1, 216) = 0.54, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;88;"=";-3.39;"<";0.01;0.00104805929986127;"t(88) = -3.39, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;85;"=";2.4;"<";0.01;0.0185789195017238;"t(85) = 2.40,p < .01";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";2;201;"=";12.29;"<";0.01;9.21497672290844e-06;"F(2, 201) = 12.29, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;201;"=";6.32;"<";0.01;0.0127227725387387;"F(1, 201) = 6.32, p < .01";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";2;201;"=";2.09;"<";0.12;0.126367010103758;"F(2, 201) = 2.09, p <.12";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;100;"=";13.88;"<";0.01;0.000322773224453844;"F(1, 100) = 13.88,p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;100;"=";2.08;"<";0.15;0.152364883776761;"F(1, 100) = 2.08, p< .15";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;101;"=";0.24;"ns";NA;0.625268557715584;"F(1, 101) = 0.24, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;15;"=";1.54;"ns";NA;0.14438786962128;"t(15) = 1.54, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;25;"=";-0.6;"ns";NA;0.553906385327295;"t(25) = -0.60, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;42;"=";-0.78;"ns";NA;0.439764583200984;"t(42) = -0.78, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;23;"=";0.28;"ns";NA;0.781980350618903;"t(23) = 0.28, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;308;"=";236.42;"<";0.01;5.49027419253925e-40;"F(1, 308) = 236.42, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;308;"=";9.93;"<";0.01;0.00178594973542926;"F(1, 308) = 9.93, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";2;308;"=";18.54;"<";0.01;2.49552990591453e-08;"F(2, 308) = 18.54, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";2;308;"=";5.42;"<";0.01;0.00485958374328943;"F(2, 308) = 5.42, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";2;308;"=";13.53;"<";0.01;2.33309477301817e-06;"F(2, 308) = 13.53, p< .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;308;"=";1.25;"ns";NA;0.264423758609724;"F(1, 308) = 1.25, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;308;"=";2.14;"ns";NA;0.144521571630238;"F(1, 308) = 2.14, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;308;"=";4.38;"<";0.05;0.0371809849905107;"F(1, 308) = 4.38,p < .05";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";2;308;"=";1.08;"ns";NA;0.340878012630806;"F(2, 308) = 1.08, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"F";1;308;"=";8.53;"<";0.01;0.00375138194637932;"F(1, 308) = 8.53,p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;59;"=";-2.65;"<";0.01;0.0103155881770405;"t(59) = -2.65, p< .01";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;20;"=";-1.02;"ns";NA;0.319909103316962;"t(20) = -1.02, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;22;"=";1.97;"<";0.06;0.0615547269852772;"t(22) = 1.97, p< .06";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;88;"=";-3.06;"<";0.01;0.00293380292194588;"t(88) = -3.06, p <.01";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;85;"=";-1.76;"<";0.08;0.0820053735622095;"t(85) = -1.76,p < .08";TRUE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;28;"=";0.11;"ns";NA;0.913194007190385;"t(28) = 0.11, ns";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"04_The attitude polarization phenomenonl";"t";NA;19;"=";-1.92;"<";0.07;0.0699988765944645;"t(19) = -1.92, p < .07";FALSE;FALSE;FALSE;FALSE;FALSE;0.75
+"05_Young adult children of alcoholic fathersl";"F";1;206;"=";10.42;"<";0.01;0.00145047844826546;"F(1, 206) = 10.42, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"Chi2";1;NA;"=";12.57;"<";0.001;0.000391988579109066;" X2(1, N = 207) = 12.57, p < .001";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;61;"=";5.71;"<";0.05;0.0199745303246358;"F(1, 61) = 5.71, p < .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;42;"=";6.21;"<";0.05;0.016735266269865;"F(1, 42) = 6.21, p < .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;167;"=";7.27;"<";0.01;0.00772989892482803;"F(1, 167) = 7.27, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;80;"=";14.43;"<";0.01;0.000282189062832683;"F(1, 80) = 14.43, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;167;"=";6.5;"<";0.05;0.0116873611594961;"F(1, 167) = 6.50, p < .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;167;"=";4.82;"<";0.05;0.0295105498636154;"F(1, 167) = 4.82, p < .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;80;"=";18.98;"<";0.01;3.88436729576366e-05;"F(1, 80) = 18.98, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;79;"=";7.52;"<";0.01;0.00754539213680801;"F(1, 79) = 7.52, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;143;"=";17.5;"<";0.01;4.98926827190177e-05;"F(1, 143) = 17.50, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;143;"=";20.35;"<";0.01;1.33449207699612e-05;"F(1, 143) = 20.35, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";7;169;"=";10.34;"<";1e-04;9.07966676787934e-11;"F(7, 169) = 10.34, p < .0001";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;166;"=";10.75;"<";0.01;0.00127036932910816;"F(1, 166) = 10.75, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;166;"=";5.37;"<";0.05;0.0217070025619788;"F(1, 166) = 5.37, p < .05";FALSE;FALSE;FALSE;FALSE;FALSE;1
+"05_Young adult children of alcoholic fathersl";"F";1;166;"=";32.79;"<";0.01;4.70490653167324e-08;"F(1, 166) = 32.79, p < .01";FALSE;FALSE;FALSE;FALSE;FALSE;1
